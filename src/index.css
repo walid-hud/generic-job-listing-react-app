@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .costume_bd {
+      border: 0.15rem solid rgb(42, 67, 190);
+      width: max-content;
+      border-radius: 10px;
+      padding: 5px
+    }
+}  
+
+
+  

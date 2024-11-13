@@ -1,0 +1,1 @@
+simple job listing web app to practice my react/tailwind skills or something ...😐
